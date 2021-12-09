@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 10,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FF6E3FFF",
+        "font" : "FZYanSongS-R-GB",
+        "color" : "#707D93FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#969BA0FF",
+        "font" : "FZYanSongS-DB-GB",
+        "color" : "#707D937E"
+      },
+      "backgroundSelected" : "#FDFFFDF2",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#F45826FF",
+        "font" : "FZYanSongS-DB-GB",
+        "color" : "#5E6B7FFF"
+      },
+      "iconPaddingHorizontal" : 20,
+      "roundness" : 12,
+      "paddingVertical" : 10,
+      "iconSize" : 32
+    },
+    "search" : {
+      "backgroundSelected" : "#A9D8FFFF",
+      "paddingHorizontal" : 8,
+      "spacing" : 4,
+      "text" : {
+        "size" : 28,
+        "colorSelected" : "#F45826FF",
+        "font" : "FZYanSongS-B-GB",
+        "color" : "#707D93FF"
+      },
+      "background" : "#FEFFFE00",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#EBF0F1F2",
+      "paddingHorizontal" : 20,
+      "width" : 600,
+      "borderPadding" : 0,
+      "borderColor" : "#FF4264FF",
+      "blur" : 0,
+      "roundness" : 10,
+      "paddingVertical" : 5
+    },
+    "credit" : "akharrou",
+    "separator" : {
+      "color" : "#2F313500",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#D3D3D3FF",
+      "thickness" : 2
+    },
+    "name" : "bonboru"
+  }
+}
