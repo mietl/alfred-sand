@@ -1,9 +1,9 @@
 # alfred-sned
 A nice [Alfred](https://www.alfredapp.com) White Sand theme
 
-![moony](./images/moony.jpg)
+![moony](./images/moony.png)
 
-![cloudy](./images/cloudy.jpg)
+![cloudy](./images/cloudy.png)
 
 ## Install 
 
