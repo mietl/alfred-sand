@@ -1,4 +1,4 @@
-# alfred-bonboru
+# alfred-sned
 A nice [Alfred](https://www.alfredapp.com) White Sand theme
 
 ![moony](https://github.com/mocky3/alfred-bonboru/blob/3e30b56f22e572b4d568da8df2bf4d465982f555/images/moony.jpg)
