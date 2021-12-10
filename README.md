@@ -9,8 +9,8 @@ A nice [Alfred](https://www.alfredapp.com) White Sand theme
 
 Download import
 
-- [https://github.com/namidaz/alfred-sand/raw/main/sand%20moony.alfredappearance](Dark theme)
-- [https://github.com/namidaz/alfred-sand/raw/main/sand%20cloudy.alfredappearance](Light theme)
+- [Moony theme](https://github.com/namidaz/alfred-sand/raw/main/sand%20moony.alfredappearance)
+- [Cloudy theme](https://github.com/namidaz/alfred-sand/raw/main/sand%20cloudy.alfredappearance)
 
 
 
