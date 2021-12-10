@@ -1,16 +1,16 @@
 # alfred-bonboru
 A nice [Alfred](https://www.alfredapp.com) White Sand theme
 
-![moony](/Users/mocky/Public/alfred-bonboru/images/moony.jpg)
+![moony](https://github.com/mocky3/alfred-bonboru/blob/3e30b56f22e572b4d568da8df2bf4d465982f555/images/moony.jpg)
 
-![cloudy](/Users/mocky/Public/alfred-bonboru/images/cloudy.jpg)
+![cloudy](https://github.com/mocky3/alfred-bonboru/blob/3e30b56f22e572b4d568da8df2bf4d465982f555/images/cloudy.jpg)
 
 ## Install 
 
 Download import
 
--[Dark theme](https://www.alfredapp.com/extras/theme/)
--[Light theme](https://www.alfredapp.com/extras/theme)
+- Dark theme
+- Light theme
 
 
 
