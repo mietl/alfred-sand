@@ -5,20 +5,20 @@
       "subtext" : {
         "size" : 12,
         "colorSelected" : "#FEFFFE66",
-        "font" : "SF Mono",
+        "font" : "System",
         "color" : "#FEFFFE3F"
       },
       "shortcut" : {
         "size" : 12,
         "colorSelected" : "#FEFFFE7F",
-        "font" : "SF Mono",
+        "font" : "System",
         "color" : "#FEFFFE3F"
       },
-      "backgroundSelected" : "#FEFFFE7F",
+      "backgroundSelected" : "#FEFFFE33",
       "text" : {
         "size" : 16,
         "colorSelected" : "#FEFFFEFF",
-        "font" : "System Light",
+        "font" : "System",
         "color" : "#FEFFFE4C"
       },
       "iconPaddingHorizontal" : 20,
@@ -33,12 +33,12 @@
       "text" : {
         "size" : 28,
         "colorSelected" : "#000000FF",
-        "font" : "SF Pro Display Bold",
+        "font" : "System",
         "color" : "#FEFFFEFF"
       },
       "background" : "#00000000",
       "roundness" : 0,
-      "paddingVertical" : 5
+      "paddingVertical" : 10
     },
     "window" : {
       "color" : "#2E3440CC",
@@ -46,14 +46,14 @@
       "width" : 600,
       "borderPadding" : 0,
       "borderColor" : "#FDFFFD00",
-      "blur" : 40,
+      "blur" : 0,
       "roundness" : 10,
       "paddingVertical" : 5
     },
-    "credit" : "Platy Hsu",
+    "credit" : "namidaz",
     "separator" : {
       "color" : "#00000000",
-      "thickness" : 0
+      "thickness" : 2
     },
     "scrollbar" : {
       "color" : "#FEFFFE19",
