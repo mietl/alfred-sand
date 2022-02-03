@@ -1,4 +1,4 @@
-# alfred-sned
+# alfred-send
 A nice [Alfred](https://www.alfredapp.com) White Sand theme
 
 ![moony](./images/moony.png)
